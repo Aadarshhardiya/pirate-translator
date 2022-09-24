@@ -1,0 +1,45 @@
+* {
+    margin:0%
+    
+}
+
+body {
+    text-align: center;
+    display: block;
+    background-image: linear-gradient(90deg, black,#262626,#262626,#262626,black) ;
+    
+}
+
+h1 {
+color: red;
+padding: 2rem;
+padding-bottom: 4rem;
+font-family: medieval;
+font-weight: bolder;
+font-size: 40px;
+}
+
+textarea {
+    display:block;
+    margin: auto;
+    border: solid darkred;
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center; 
+    color:#262626;
+    font-size: 20px;   
+}
+
+#btn-id {
+    font-weight: bold;
+    background-color:darkred;
+    color: whitesmoke;
+    width: 7rem;
+    margin:1rem
+}
+
+label {
+    display: block;
+    padding: 1.5rem;
+    color:tomato
+} 
