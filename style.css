@@ -30,6 +30,21 @@ textarea {
     font-size: 20px;   
 }
 
+output{
+    display:inline-block;
+    border: solid darkred;
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center; 
+    color:#262626;
+    font-size: 20px;
+    height: 10vh;
+    width: 40rem;
+    background-color: white;
+    padding: .5rem;
+
+}
+
 #btn-id {
     font-weight: bold;
     background-color:darkred;
